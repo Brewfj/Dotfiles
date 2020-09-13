@@ -1,0 +1,6 @@
+2020/09/12-20:42:54.747 1b94 Reusing MANIFEST /home/brandon/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/12-20:42:54.748 1b94 Recovering log #99
+2020/09/12-20:42:54.879 1b94 Reusing old log /home/brandon/.config/chromium/Default/Local Storage/leveldb/000099.log 
+2020/09/12-20:57:24.875 30e0 Level-0 table #103: started
+2020/09/12-20:57:24.938 30e0 Level-0 table #103: 16356 bytes OK
+2020/09/12-20:57:24.974 30e0 Delete type=0 #99

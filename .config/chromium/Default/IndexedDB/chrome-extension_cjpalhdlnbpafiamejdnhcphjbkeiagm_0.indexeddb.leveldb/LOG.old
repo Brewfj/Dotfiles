@@ -1,0 +1,8 @@
+2020/09/12-17:22:32.829 1458d Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/12-17:22:32.829 1458d Recovering log #233
+2020/09/12-17:22:32.829 1458d Reusing old log /home/brandon/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000233.log 
+2020/09/12-17:22:34.882 146ee Level-0 table #237: started
+2020/09/12-17:22:34.882 146ee Level-0 table #237: 0 bytes OK
+2020/09/12-17:22:34.929 146ee Delete type=0 #233
+2020/09/12-17:22:34.930 146ee Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/12-17:22:34.930 146ee Manual compaction at level-1 from (begin) .. (end); will stop at (end)

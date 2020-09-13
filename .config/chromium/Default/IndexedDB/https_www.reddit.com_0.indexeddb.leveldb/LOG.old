@@ -1,0 +1,8 @@
+2020/05/06-22:31:12.441 3ef6 Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/05/06-22:31:12.441 3ef6 Recovering log #4
+2020/05/06-22:31:12.441 3ef6 Reusing old log /home/brandon/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2020/05/06-22:32:15.066 3d5e Level-0 table #8: started
+2020/05/06-22:32:15.067 3d5e Level-0 table #8: 0 bytes OK
+2020/05/06-22:32:15.115 3d5e Delete type=0 #4
+2020/05/06-22:32:15.115 3d5e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/05/06-22:32:15.115 3d5e Manual compaction at level-1 from (begin) .. (end); will stop at (end)

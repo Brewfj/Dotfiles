@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/brandon/startup/glava.sh
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[en_US]=glava
+Comment[en_US]=No description
+X-GNOME-Autostart-Delay=0

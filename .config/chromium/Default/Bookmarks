@@ -1,0 +1,62 @@
+{
+   "checksum": "0b4c3525445b5efbbc45abb30fb0e448",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13220033604575665",
+            "guid": "fc9a9f40-ab55-4da1-8501-7fd4705c5f64",
+            "id": "10",
+            "name": "CompTIA :: Pearson VUE",
+            "type": "url",
+            "url": "https://home.pearsonvue.com/comptia"
+         }, {
+            "date_added": "13239253979940564",
+            "guid": "8f3e5e41-4e1d-4625-91b4-d40d013a1016",
+            "id": "14",
+            "name": "DIY Paradise Punch (Mango, Peach, Strawberry) ejuice recipe :: e-Liquid Calculator",
+            "type": "url",
+            "url": "https://e-liquid-recipes.com/recipe/826782/Paradise%20Punch%20%28Mango,%20Peach,%20Strawberry%29"
+         }, {
+            "date_added": "13241456192422880",
+            "guid": "f02c4465-64fe-4c61-b6c9-4885a55cf267",
+            "id": "13",
+            "name": "DIY Strawberry Milkshake ejuice recipe :: e-Liquid Calculator",
+            "type": "url",
+            "url": "https://e-liquid-recipes.com/recipe/3670896/Strawberry%20Milkshake"
+         }, {
+            "date_added": "13242566240905804",
+            "guid": "37fa1394-a8d7-42f9-9ca8-f0d175da4558",
+            "id": "12",
+            "name": "Web Login",
+            "type": "url",
+            "url": "https://ws3.delhaize.com/psp/DZASYS/SS/?cmd=start"
+         } ],
+         "date_added": "13224476403954412",
+         "date_modified": "13244225299932328",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13224476403954416",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13224476403954417",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgDCh1yGvBQAhgDCh1yGvBQAiFAlYZvbmIa8FABABGe2nZLmb8FZsMhgKFggCES/xwechrwUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAMKHXIa8FACGAMKHXIa8FADIYChYIAhEv8cHnIa8FABgAIQAAAAAAAAAAIABIrZi9nMgucM2RldPGLhIAIAEqGE44N2k5OXJmUURqbWZkRUlIRjNFcEE9PRLGAQgDEsEBEmZaOkFEcXRBWndRNmlWVksrc0ZlWnZBWG02azlheURmTFBtaFdoaG1yWjR5REdXT3pTUEs2aERHZ0JRZnl2STkySzBDTDViV0gwb0w3VGJlNmE0a1BwUDBOOGUyanZMMDFMRzRnPT0YACAAKAAw47zDkZGg5wI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WiYiJIAAAAAAAAAAAuG5paUfWjccehQZXxs55V35pyDSpCUPiVxqfxKtAggKEqgCChxvVG5hbDM0MHgveEdKVy8yTExISXhXQllEdEE9EqYBWjpBRHF0QVp3dEppWkJPMjJjTHBBWG13NFNSVlNPZGZabGJRWmR2c2J5VlpKcG01d2tmZTFqTjFWZG1iRzZNTExTY3VobHZzbHNrN2kyWU15UjcyaHVZUGRsMXhlaTVybFpnRWIrMUl1d1J6ZGtJOXdUWFpTMWFyNVI2cXl5enJmT2VwOWZva2hVcTZsOUpSdDA4VWFpMzRYWVN0T0t3b3BWOGc9PRgAIAUoBTDXzNm3nuTrAjjfh8e17S1AsZ28nMguShxhU1ZwVlRzdU93SE8waXg5WUpILzJLRU5haEU9Wh8iHfp1UCtVblR1S2JSNmFXZ3NHNStZbkhiSTMyeFU9ZXompAMSrQIIDBKoAgocMVVHTGRTQ3hWRXErdGxyWnoyY0djQVB4UHRFPRKmAVo6QURxdEFad3RKaVpCTzIyY0xwQVhtdzRTUlZTT2gra0RPSzFpUytKM1R2Njk2cnJYZ21YOVBTcGlkVmRLS2N5WkQ3UDh2QkRnMXJPZlE1Y1JsdkFCeXhGN0luSTJpTEY1cmU4U1AzUVBiSDFKbnRQVUtIODV1c1VpVzl4UUUzOTE3anBCSXJMS0k5Z2pPTW9ZbU9jU0ZQUFlXSDRnaW8yVjNRPT0YACAAKAAwuqWGgs+u6wI4ioX6rcEuQIqF+q3BLkocdFV6SDVPcTNEaStOczNMQmJibC9IWXNUKzZrPVofIh3/VExqc0FHWlJTTXV2SzVraU9CRmUzNW52WWl3PWUAAAAAEq0CCA0SqAIKHGNIRER3WDB4M3BTbmZKeGszVHh1dFNOeHJmZz0SpgFaOkFEcXRBWnd0SmlaQk8yMmNMcEFYbXc0U1JWU09oK2tET0sxaVMrSjNUdjY5NnJyWGduZ0R2L2RIQk9DdXRSUFRFYklSVHUvclk3TkJXcXpSRkVmaVgvZGhhZlZuaEdOVnhVcmh2ZmZUVm9MTUNuOTgwYUFpZ3hYYko3cEh1czNOZElKNCt4SzVHb2wzNnlrcDlFS0gvYk1uK25hK2FTdTE3QT09GAAgAygDMLjJx/r51+sCOKeH0py9LkC54JjTxi5KHDI0ZGxrMzlwZUVteUZ3TnI0SCtwVnp5Zkpydz1aHyId/k0wemRjOGJRRlZna244eDVGU0dkYm43VUptVT1lRJu+KRKtAggOEqgCChxLeEhaZTZqc3phT2wyaGxHYlFHWm5LYXdPMU09EqYBWjpBRHF0QVp3dEppWkJPMjJjTHBBWG13NFNSVlNPaCtrRE9LMWlTK0ozVHY2OTZyclhncGlhT2RVSDJPcnF3MHpHeSt5ZXZoL2NibzZOdjdMOVlSVHNhMzlRNGJXZFVJeW9TU3dBdnpybDFXdVhKL2hnS3J2RllIQlBLajJzdUZkMG4raU1BSFdPdzVCNVN4Nk12N0xSRFZ0Q0FHSWQxU3I1RHc9PRgAIAMoAzC4ycf6+dfrAjik1sWCtS5AueCY08YuShxobEpoUG04MmR4eEh1c2hUbGg1UUxGVlN6aWM9Wh8iHf11OEkzTllzSzdTU1hRdS9uOGJVZlJYMnU5UWc9ZUSbvikSrgEIARKpARJOWjpBRHF0QVp4eHpudThaYnBORHdyWE5yd0xuNm5UdzJTS1FmZEVuWXBxUlZ4MlZOT0xOaTZoV2hUQkdHVUlibjNSSGVSbjBvcTZDVUpmGAAgACgAMOO8w5GRoOcCOABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVomIiSAAAAAAAAAABeyUqDhlQJz1VpGmOxFCJgp9wW48i3VSjxCAn8SxgEIAhLBARJmWjpBRHF0QVp5YUtNUXFrcTl6V2laaHFoSXhoeEdTWEFBRU5UWENOaU96Z1U4b1pqUnZmazhqNlA5ZktoMk5iZ1RrNmtXNFBMaWM3UlM1VUJZaEZScnpXZk5kYnNVUFVvQ1lrUT09GAAgACgAMOO8w5GRoOcCOABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVomIiSAAAAAAAAAAFDHzJQ/fy0nqPV3MgCx6niM5zTKZRbNsWsirn8YAA==",
+   "version": 1
+}

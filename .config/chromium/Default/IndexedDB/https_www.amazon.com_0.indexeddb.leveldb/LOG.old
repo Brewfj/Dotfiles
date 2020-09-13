@@ -1,0 +1,15 @@
+2020/09/11-09:38:49.213 3287 Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-09:38:49.213 3287 Recovering log #47
+2020/09/11-09:38:49.213 3287 Reusing old log /home/brandon/.config/chromium/Default/IndexedDB/https_www.amazon.com_0.indexeddb.leveldb/000047.log 
+2020/09/11-09:38:57.041 882 Level-0 table #52: started
+2020/09/11-09:38:57.080 882 Level-0 table #52: 535 bytes OK
+2020/09/11-09:38:57.109 882 Delete type=0 #47
+2020/09/11-09:38:57.109 882 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/11-09:38:57.109 882 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00P^\xac\xd9GwB\x00\x01\x14\x007\x00Q\x00B\x00C\x00T\x008\x00F\x00S\x001\x006\x00R\x000\x00K\x000\x00E\x00F\x001\x00X\x00N\x00V' @ 245 : 1
+2020/09/11-09:38:57.109 882 Compacting 1@1 + 1@2 files
+2020/09/11-09:38:57.139 882 Generated table #53@1: 58 keys, 1715 bytes
+2020/09/11-09:38:57.139 882 Compacted 1@1 + 1@2 files => 1715 bytes
+2020/09/11-09:38:57.167 882 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/11-09:38:57.167 882 Delete type=2 #49
+2020/09/11-09:38:57.167 882 Delete type=2 #52
+2020/09/11-09:38:57.167 882 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00P^\xac\xd9GwB\x00\x01\x14\x007\x00Q\x00B\x00C\x00T\x008\x00F\x00S\x001\x006\x00R\x000\x00K\x000\x00E\x00F\x001\x00X\x00N\x00V' @ 245 : 1 .. (end); will stop at (end)
