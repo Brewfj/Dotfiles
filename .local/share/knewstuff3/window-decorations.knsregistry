@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>Sweet Aurorae</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>eliverlara</author>
+  <homepage>https://store.kde.org/p/1286856</homepage>
+  <licence></licence>
+  <version>1.1.0</version>
+  <rating>82</rating>
+  <downloads>187301</downloads>
+  <installedfile>/home/brandon/.local/share/aurorae/themes/Sweet-Dark-transparent/*</installedfile>
+  <installedfile>/home/brandon/.local/share/aurorae/themes/Sweet-Dark/*</installedfile>
+  <id>1286856</id>
+  <releasedate>2020-07-01</releasedate>
+  <summary>Aurorae theme to fit my Sweet theme for &lt;a href="https://www.pling.com/p/1294174/" target="_blank" rel="nofollow">plasma&lt;/a> and &lt;a href="https://www.pling.com/p/1253385/" target="_blank" rel="nofollow">gnome&lt;/a>&lt;br />
+&lt;br />
+Settings in screenshot: &lt;br />
+&lt;br />
+&lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/6/0/0/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/6/0/0/cac8754ceb156dbfaafd564be3fbd2c90b9b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTM2MzMyMjAiLCJvIjoiMSIsInMiOiI5ZDUyNjczYWVmZjdlYzBmNWFmMjljNDNiMTc0OWNkNzVlZTMzYTNlNTkzZTFjMThkOGM1YzI0ZGJjZWJmOThiM2Q1MTMxMjk3OGRlYzAyNjFiMDdlODQ2ZWY5NjU1OGY5ZDc4NmI2NjkyMzJkMmE1ZjVlYTNiY2YwNjg0NzVkNCIsInQiOjE2MjE3ODE5MDQsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.ONhmhhWvzwMWGvT8Xc_WCV1Ta3_3NiEUARyU1pqrjIY/Sweet.tar.xz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Amethyst</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1322972</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>850</downloads>
+  <installedfile>/home/brandon/.local/share/aurorae/themes/Amethyst/*</installedfile>
+  <id>1322972</id>
+  <releasedate>2021-03-11</releasedate>
+  <summary>Aurorae Theme, customized for the &lt;span style="color: fuchsia;"> &lt;strong>Amethyst&lt;/strong> &lt;/span>  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1322963/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+ &lt;br />
+Link to Wallpaper...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/9/9/e/200520d0779a04a9854988fd5a22472bdc17827b46bb0ea41fcea35fc2d94632a706.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/9/9/e/200520d0779a04a9854988fd5a22472bdc17827b46bb0ea41fcea35fc2d94632a706.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTU0ODI3MDkiLCJvIjoiMSIsInMiOiIxYWZkMjNiOWQ0NGVhZTgwYjNkNWFiZTVhYzJlYWRiY2FkOWEyNjAwODE3NWY2YWJmOTZhMTU3NWI1YzI3ODBjZWI3ODk5M2YzYmFmODZmYzVlMTRiOGY3N2QwMjIzYjQ4OTJlYTgzM2FkZDZhMjZhZDRlYjhmZTlkMDQ3YjFlNyIsInQiOjE2MjE2NDI5NzQsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.qVrUQXBrWVTof767K3ejQ-JLrNx_hkgtE4KCfJXyueI/Amethyst.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

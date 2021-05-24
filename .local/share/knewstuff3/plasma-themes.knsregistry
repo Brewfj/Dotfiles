@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Lavender-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1457369</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>4653</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Lavender-Plasma</installedfile>
+  <id>1457369</id>
+  <releasedate>2021-02-02</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #636393;"> &lt;strong>Lavender-Dark-Icons&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1457364/" target="_blank" rel="nofollow">&lt;span style="color: red;">...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/c/3/a/2/ce90751adda6bde7cb209b5d7e0b4f1a68dca3dab7d557904d7cef9ab033ae5ad7f2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/c/3/a/2/ce90751adda6bde7cb209b5d7e0b4f1a68dca3dab7d557904d7cef9ab033ae5ad7f2.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTIyODE2NjYiLCJvIjoiMSIsInMiOiI5Mzk5MDkyMDBkZTQ1ZWU2M2EwNzNjODM1YTZiMzgxN2M3ZDM0Y2NmOTQwNjU5MTRkYWQxM2FhYzVmZTE1ZWJkZmFjYjA1NmM5Y2Y2MDE4ODhjM2E0YjI3ZDFmOTk5ZTMwN2NiNmVlNzdjOGY2NjU3NGVlYzQ3MDIyMDgzZWJkZiIsInQiOjE2MjE2NDIzNzksInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.dta7aElTG2E884gHlv4royirk2vUKRLSczn2OG4roDE/Lavender-Plasma.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,original-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Mirage</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1312311</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>6971</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Mirage</installedfile>
+  <id>1312311</id>
+  <releasedate>2019-10-03</releasedate>
+  <summary>Beautiful dark KDE Plasma theme based on the Sweet theme with changed colors throughout the theme.&lt;br />
+Click on the screenshots to enlarge so they will not be blurry&lt;br />
+&lt;br />
+&lt;br />
+If you would like to enable transparency:&lt;br />
+https://store.kde.org/p/1294604&lt;br />
+&lt;br />
+KDE has a guide...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/0/e/0/7dac94907a6ea0085fa1b392d5a868c4c5ad.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/0/e/0/7dac94907a6ea0085fa1b392d5a868c4c5ad.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzAxMzg5NTkiLCJvIjoiMSIsInMiOiI1MDM1OTE4NzEzNTE3ZDUzMDg0ZWQzNDUzODgzZTRmY2EzYmM5MTQzMGI4NmZmODU4ODVkYTU1OTNiOGEyYzEwODJkZGQwNGMzZWNjYmIxMjlhNWYwYzcyY2NjMTI1YzhjODc0OTQyMDhhYzk4YmZjYzViNmQ2MmQ5ZTViYzA3MiIsInQiOjE2MjE2NDI1MzIsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.Uay9-7Iby1SzJbS_pMq5F6MFy-NtKFtL5cdMr-Iju5M/Mirage.tar.gz</payload>
+  <tags>kdeplasma,gplv3,plasma##majorversion=5,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Lyra-dark Plasma Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1460998</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>2150</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Lyra-dark</installedfile>
+  <id>1460998</id>
+  <releasedate>2021-02-23</releasedate>
+  <summary>Lyra-dark kde is a light clean theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+In this repository you'll find:&lt;br />
+&lt;br />
+    Aurorae Themes&lt;br />
+    Kvantum Themes&lt;br />
+    Plasma Color Schemes&lt;br />
+    Plasma Desktop Themes&lt;br />
+    Plasma Look-and-Feel Settings&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/7/9/0/4cde6761e24bbabbab3854ac98a5ba44f12c5ab6ea33724f8f54f84602d2c67d446b.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/7/9/0/4cde6761e24bbabbab3854ac98a5ba44f12c5ab6ea33724f8f54f84602d2c67d446b.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTQxMjIwODgiLCJvIjoiMSIsInMiOiI2MjM3Yzk2NGM2ZjBhMzA0M2VhYzAzNzc5ZjBkMzBjZGIyYWY0NzdjOWRlOTA1YjhmMTI2MTI0MzM3NWYzMGQwOTgyZWY2OGM5Yjk5OGE1NjlkZjk3ZGUyYTYyMWUwNDI5ZGU5MDlhNjU1MmEyMWU4MGM2ZjA2Zjk0ZGRiMDBhMiIsInQiOjE2MjE2NDIzNjksInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.SyMuu7n2UdeGoToI_sXMF6F2teiqJxOQK1-Ixgcp1f8/Lyra-dark.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Red-Dot-Black-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1473377</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>64</rating>
+  <downloads>684</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Red-Dot-Black-Plasma</installedfile>
+  <id>1473377</id>
+  <releasedate>2021-05-08</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Dark Plasma Theme No Transparent and NO Blur &lt;span style="color: #860038;"> &lt;strong>Red-Dot-Black-Solid-Plasma&lt;/strong> &lt;/span>:&lt;a href="https://www.pling.com/p/1473375/" target="_blank" rel="nofollow">&lt;span...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/c/0/0/7b043679fabea68c1788cae8fc145e6eca601bb3ca40c8bd5808395ae4581017fccb.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/c/0/0/7b043679fabea68c1788cae8fc145e6eca601bb3ca40c8bd5808395ae4581017fccb.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjA0NjM1NzMiLCJvIjoiMSIsInMiOiIxOWZlMzU0NGRiYjU1MjQxNjVjYWExM2ZjYjA1ODY2MjM3ZjlkMWQzZWVhZjMxNjVhNTg0ZmY1OWY0MzBmMWYxMDM4NWYzOGVlNzQ0MDQ4MjhkYmE3YjBhM2M4MjE5YTllNjE2ZDYwM2NiYmM4MzQ3MWIzOWM4OWM4YjMzZWUxYyIsInQiOjE2MjE2NDIzNDMsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.-ffgurVdK3RDc-2Iau9xTYpMl9l7GUGIMr3o_kVX_4o/Red-Dot-Black-Plasma.tar.gz</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Mild-Gradient-Plasma</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1408406</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>7808</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Mild-Gradient-Plasma</installedfile>
+  <id>1408406</id>
+  <releasedate>2020-10-09</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur.&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #4e51ac;"> &lt;strong>Breeze-Gradient-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1408404/" target="_blank" rel="nofollow">&lt;span style="color: red;">...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/0/b/2/899a5675c75d73b66753251ab1f172165e024a171db073ac2b559b2a092471cbb24e.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/0/b/2/899a5675c75d73b66753251ab1f172165e024a171db073ac2b559b2a092471cbb24e.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDIyMzU2MzciLCJvIjoiMSIsInMiOiJmYjJkOWI0N2Y3ZDg5NmYyYTI3OGNiMmM2OWIxZGM5OTRjOTQxZTc4N2UyNTFkNTRhMDU3ZWQ0Y2Q5OWRmODY5YjcyNzljMTNiMjk5M2NmZGY0YWQ1YjQwMWUyZWUyNzYwMjI1MDYxYmQ3N2I2NTc0OTlmYmVlMjdiNzcxOTM3NiIsInQiOjE2MjE2NDI0MDksInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.JLofrxQ_7lB7UUa2VXqpUJoH0dtBFlsocsuIAlpQRGg/Mild-Gradient-Plasma.zip</payload>
+  <tags>linux,unix,theme,kde,plasma,gplv3,original-product</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="104">
+  <name>Amethyst</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1322963</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>857</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/desktoptheme/Amethyst</installedfile>
+  <id>1322963</id>
+  <releasedate>2021-03-11</releasedate>
+  <summary>&lt;strong>&lt;span style="color: fuchsia;"> Amethyst &lt;/span> is the purple variety of quartz and is a popular gemstone. If it were not for its widespread availability, amethyst would be very expensive. The name &lt;span style="color: fuchsia;"> Amethyst &lt;/span> comes from the Greek and means "not...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/f/1/9/d902f6310c902573733468f7bb5161150b304510d15431e1bedd02246ad9196bfa1a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/f/1/9/d902f6310c902573733468f7bb5161150b304510d15431e1bedd02246ad9196bfa1a.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTU0ODMyOTAiLCJvIjoiMSIsInMiOiIxNjQxMjA5ZjFkNzY2MzkyOTlkOGU0ZDVjYmQ1NzQ3NmY4Yzg2MDQxZGEyYmU4NzM0ODBkZDEwMDNlODNkYThjOTkxYWNlNTZiZjgyYWI4ZGNlNDdkZWIyOTdjNjhjZWFlOWI2ZGMwYmQ1OTMxZDNlMWE0YjM1NzMyMjY2MGE4YSIsInQiOjE2MjE2NDI1MDQsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.rkxXEY9LA7kW-8DaopIv9Yi1jzG9eS5xJHPm7zXe4sU/Amethyst.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

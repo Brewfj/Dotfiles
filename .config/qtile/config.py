@@ -80,9 +80,8 @@ keys = [
              desc='Move focus to prev monitor'
              ),
          Key([mod, "control"], "k",
-             lazy.layout.section_up(),
-             desc='Move up a section in treetab'
-             ),
+             [mod], "d"
+            ), 
          Key([mod, "control"], "j",
              lazy.layout.section_down(),
              desc='Move down a section in treetab'
@@ -189,7 +188,7 @@ layouts = [
     #layout.Tile(shift_windows=True, **layout_theme),
     #layout.Stack(num_stacks=2),
     layout.TreeTab(
-         font = "FiraGO Medium",
+         font = "Ub Nerd Font",
          fontsize = 10,
          sections = ["FIRST", "SECOND"],
          section_fontsize = 11,
@@ -214,12 +213,14 @@ colors = [["#0D1E33", "#0D1E33"],
           ["#3473AC", "#3473AC"], 
           ["#C6E0E8", "#C6E0E8"],
           ["#5BAFD5", "#5BAFD5"],
-          ["#800080", "#800080"],
-          ["#020303", "#020303"],
+          ["#f693cf", "#f693cf"],
+          ["#0e030f", "#0e030f"],
           ["#9B4CFA", "#9B4CFA"],
-          ["#FEBAF8", "#FEBAF8"]]
+          ["#74113a", "#74113a"],
+          ["#0e030f,   #0e030f"]
+                        ]
 widget_defaults = dict(
-    font="FiraGO Nerd Font Medium",
+    font="Ubuntu Nerd Font",
     fontsize = 12,
     padding = 2,
     background=colors[10]
@@ -230,9 +231,9 @@ extension_defaults = widget_defaults.copy()
 
 def init_widgets_list():
     widgets_list = [
-               widget.GroupBox(font="FiraGO Nerd Font Medium",
-                        fontsize = 24,
-                        margin_y = 3,
+               widget.GroupBox(font="Ubuntu Nerd Font",
+                        fontsize = 18,
+                        margin_y = 1,
                         margin_x = 0,
                         padding_y = 3,
                         padding_x = 1,
@@ -250,72 +251,73 @@ def init_widgets_list():
                         background = colors[9]
                         ),
                #widget.TextBox(
-                     #   text='',
-                      #  background = colors[9],
-                      #  foreground = colors[11],
-                      #  padding=0,
-                       # fontsize=36
-                       # ),          
+                       #text='',
+                       #background = colors[9],
+                        #foreground = colors[11],
+                        #padding=0,
+                        #fontsize=36
+                        #),          
                widget.WindowName(
                         foreground = colors[8],
                         background = colors[9],
-                        padding = 0,
-                        font= "Fira Sans Medium",
+                        padding = 10,
+                        font= "Noto Sans",
                         fontsize = 12
                         ),
-                #widget.TextBox(
-                 #       text='',
-                  #      background = colors[9],
-                   #     foreground = colors[11],
-                    #    padding=0,
-                     #   fontsize=36
-                      #  ),
-               #widget.CPU(
-                #        foreground=colors[2],
-                 #       background=colors[4],
-                  #      padding = 0,
-                   #     fontsize=12,
-                    #    update_interval = 3,
-                     #   format = '  {load_percent} %'
-                      # ),
-               widget.TextBox(
+                widget.TextBox(
                         text='',
                         background = colors[9],
-                        foreground = colors[9],
+                        foreground = colors[11],
                         padding=0,
                         fontsize=36
                         ),
+               #widget.CPU(
+                        #foreground=colors[2],
+                        #background=colors[4],
+                        #padding = 0,
+                        #fontsize=12,
+                        #update_interval = 3,
+                        #format = '  {load_percent} %'
+                       #),
+                       
+               #widget.TextBox(
+                        #text='',
+                        #background = colors[8],
+                        #foreground = colors[11],
+                        #padding=0,
+                        #fontsize=36
+                        #),
                widget.TextBox(
                         text=" ",
-                        padding = 2,
+                        padding = 0,
                         foreground=colors[8],
-                        background=colors[9],
+                        background=colors[11],
                         fontsize=12
                         ),
                widget.ThermalSensor(
                         foreground=colors[8],
-                        background=colors[9],
+                        background=colors[11],
                         padding = 5,
                         update_interval = 2
                         ),
                widget.TextBox(
                         text='',
-                        background = colors[9],
-                        foreground = colors[9],
+                        background = colors[11],
+                        foreground = colors[8],
                         padding=0,
                         fontsize=36
                         ),
                widget.Memory(
-                        foreground = colors[8],
-                        background = colors[9],
+                        foreground = colors[11],
+                        background = colors[8],
                         padding = 5,
                         update_interval = 2,
                         format = '  {MemUsed}M'
                         ),
                widget.TextBox(
                         text='',
-                        background = colors[9],
-                        foreground = colors[9],
+                        background = colors[8],
+                        foreground = colors[11],
                         padding=0,
                         fontsize=36
                         ),
@@ -323,16 +325,16 @@ def init_widgets_list():
                         text = '  Updates:' ,
                         padding = 3 , 
                         foreground = colors[8] ,
-                        background = colors [9] ,
+                        background = colors [11] ,
                         mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e yay -Syyu')} 
                         ),          
                 widget.CheckUpdates(
                        display_format = '{updates}',
-                       distro = 'Arch_checkupdates', 
+                       distro = 'Arch', 
                        update_interval = 60,
-                       padding = 1,
+                       padding = 0,
                        foreground = colors[8],
-                       background = colors[9],
+                       background = colors[11],
                        colour_have_updates = colors[8],
                        colour_no_updates = colors[8],
                        mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e yay -Syyu')}
@@ -347,45 +349,45 @@ def init_widgets_list():
                          # ),
                widget.TextBox(
                         text='',
-                        background = colors[9],
-                        foreground = colors[9],
+                        background = colors[11],
+                        foreground = colors[8],
                         padding=0,
                         fontsize=36
                         ),
                widget.CurrentLayout(
-                        foreground = colors[8],
-                        background = colors[9],
-                        padding = 5
+                        foreground = colors[11],
+                        background = colors[8],
+                        padding = 0,
                         ),
                 widget.TextBox(
                         text='',
-                        background = colors[9],
-                        foreground = colors[9],
+                        background = colors[8],
+                        foreground = colors[11],
                         padding=0,
                         fontsize=36
                         ),
                widget.TextBox(
                        text=" ",
                         foreground=colors[8],
-                        background=colors[9],
-                        padding = 0
+                        background=colors[11],
+                        padding = 2
                         ),
                widget.Volume(
                         foreground = colors[8],
-                        background = colors[9],
-                        padding = 5,
-                        update_interval = 5
+                        background = colors[11],
+                        padding = 0,
+                        update_interval = 0.10
                         ),         
                widget.TextBox(
                         text='',
-                        background = colors[9],
-                        foreground = colors[9],
+                        background = colors[11],
+                        foreground = colors[8],
                         padding=0,
                         fontsize=36
                         ),
                widget.Clock(
-                        foreground = colors[8],
-                        background = colors[9],
+                        foreground = colors[11],
+                        background = colors[8],
                         format="  %A %B %d, %Y    %l:%M %p "
                         ),
                widget.Sep(
@@ -408,9 +410,9 @@ def init_widgets_screen2():
     return widgets_screen2                       
 
 def init_screens():
-    return [Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=20)),
-            Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=20)),
-            Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=20))]
+    return [Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=23)),
+            Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=23)),
+            Screen(top=bar.Bar(widgets=init_widgets_screen1(), opacity=0.95, size=23))]
 
 if __name__ in ["config", "__main__"]:
     screens = init_screens()
@@ -462,4 +464,4 @@ focus_on_window_activation = "urgent"
 def start_once():
     home = os.path.expanduser('~')
     subprocess.call([home + '/.config/qtile/autostart.sh'])
-wmname = "LG3D"
+wmname = "Qtile"

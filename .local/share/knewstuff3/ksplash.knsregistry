@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="488">
+  <name>01-Beautiful-sky-gradient-splash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1494806</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>486</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/look-and-feel/01-Beautiful-sky-gradient-splash</installedfile>
+  <id>1494806</id>
+  <releasedate>2021-03-21</releasedate>
+  <summary>Splashscreen.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/2/3/4/ee3feb09aeb155ea03067a04bcd7d43848e4bb90467177ed762638da71de5987b3b9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/2/3/4/ee3feb09aeb155ea03067a04bcd7d43848e4bb90467177ed762638da71de5987b3b9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTYzODE3MjQiLCJvIjoiMSIsInMiOiJmMjE0ZTdmOWYzYmM5OGMxMzdiOGI2YTYzMjA2Njg4YWIxNzBjNWMxNDA0NDIwOGRiODUwZjAxMDYyOWM2Y2Q3MzAyY2EzNDExZTZlODE1MDNjM2M2ODJhMDMzNGVhZGQzODA2MmU1MDc4NmY4M2EyOGI1MzNkZmRhMmMyYjI2MyIsInQiOjE2MjE3ODA0MTMsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.SbQP8DM1gM3RORnznCjjpROB2lgWHggxDPWObjRyo-g/01-Beautiful-sky-gradient-splash.tar.gz</payload>
+  <tags>kde,plasma,splash,sky,gradient,gplv3,linux,unix,theme,plasma##majorversion=5,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Beautiful-Glow-splashscreen</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1525754</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>91</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/look-and-feel/Beautiful-Glow-splashscreen8</installedfile>
+  <id>1525754</id>
+  <releasedate>2021-05-20</releasedate>
+  <summary>Plasma splashscreen KDE Plasma.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/c/9/d/8eaae48eda6b461419e7725e534d196b5cf099eb61fd160be0c6fd3917b4428a83cd.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/c/9/d/8eaae48eda6b461419e7725e534d196b5cf099eb61fd160be0c6fd3917b4428a83cd.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjE0OTY1MjkiLCJvIjoiMSIsInMiOiI1Yjk2MzBiNjQ1MjcwMjk4YzNiNTE1YjZmYzQwZDE0NThhZGM4NzZlNTEyOTkxYWQ4NmI2NmQ4Nzk2ZDE5ZjdjMWU1YjlmN2ViZWI5YjY1YjE3MDEwNmIyOTlhZjdlY2UyMjdjNWE1ZjAxNGUwMWIyN2JhZjk3MjU0ZTVhNTY3ZiIsInQiOjE2MjE3ODAxMTMsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.4gFi57zdEZqdOEoD2Az4I4EzR9KdqdBq_Rn1abK6bP8/Beautiful-Glow-splashscreen8.tar.gz</payload>
+  <tags>gplv3,linux,unix,theme,plasma##majorversion=5,splashscreen,kde,plasma,sky</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>02-Coastal-sunset-splash</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1494807</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>397</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/look-and-feel/02-Coastal-sunset-splash</installedfile>
+  <id>1494807</id>
+  <releasedate>2021-03-21</releasedate>
+  <summary>Splashscreen.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/e/3/d/779c02af53f1666c636a5cc51f244817888ac8382fc1d6d6b6fc6f008c12ffbfb159.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/e/3/d/779c02af53f1666c636a5cc51f244817888ac8382fc1d6d6b6fc6f008c12ffbfb159.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTYzODIwMjgiLCJvIjoiMSIsInMiOiIzZTY2OGNkODUxMTE3NmJhYTNmODJkMzJlNWZlY2U2Njg3M2Y1NDhlN2YyNzU4ZWU0NDBjZDY1MzIzMmJlMjQ5NzA3OTA5NjljMjAzZTVmMzliYTUxYjYxMDg3NGE2MTZjNDk1YTkzY2Y2NDE2YjhmNzMyMmE3ZTNlMzg2MmEzZiIsInQiOjE2MjE3ODA0MTIsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.l_KSI33_eOuw7B4bwL3fPDjSdmJA9EZf7zfn58sygsQ/02-Coastal-sunset-splash.tar.gz</payload>
+  <tags>linux,unix,theme,plasma##majorversion=5,splashscreen,kde,plasma,splash,sunset,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Animation-moving-element-3</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1497725</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>839</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/look-and-feel/Animation-moving-element-3</installedfile>
+  <id>1497725</id>
+  <releasedate>2021-03-27</releasedate>
+  <summary>Animated Plasma splashscreen KDE Plasma.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/8/2/4/6/44768155a0afdd120d06ab141f946820f4d8f21216e037b5a57daf4943d96e788932.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/8/2/4/6/44768155a0afdd120d06ab141f946820f4d8f21216e037b5a57daf4943d96e788932.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTY4MjM4MDAiLCJvIjoiMSIsInMiOiIyM2FlMTdhMjIyODBmOWVlYmJmY2NkYWNlZWJhYTM0MjBiZDQwYjU2ZGVkYmEwNDY2OTdhMjViMGQ2Yjg3Mzg2MGIzMjc4NTkxOWViMzk5MThiZjQzMDI1NGM0ZTEzYzJhZTBhMTQ2MzY5Y2E2NWYzOWZiMjExNGZhNTIxZGI1NyIsInQiOjE2MjE3ODAzOTgsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.1QHShWmNBHw8YVRPZIDhbq3NX4IXiSDD4k8JalCvb2E/Animation-moving-element-3.tar.gz</payload>
+  <tags>gplv3,kde,plasma,animated,splash,linux,unix,theme,plasma##majorversion=5,splashscreen</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="488">
+  <name>Animation-SplashScreen-4</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>creativity</author>
+  <homepage>https://store.kde.org/p/1505562</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>57</rating>
+  <downloads>2039</downloads>
+  <installedfile>/home/brandon/.local/share/plasma/look-and-feel/Animation-SplashScreen-4</installedfile>
+  <id>1505562</id>
+  <releasedate>2021-04-10</releasedate>
+  <summary>Animated Plasma splashscreen KDE Plasma.&lt;br />
+I would be glad if you rate it and comment. Thanks to all!</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/8/1/1/08e41cd795d85332236579a39e4947f176d9996a4c264f064be144942cea48e998f9.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/8/1/1/08e41cd795d85332236579a39e4947f176d9996a4c264f064be144942cea48e998f9.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTgwMzY3NTciLCJvIjoiMSIsInMiOiI2MDkxMjM5NWZjNmU3ZDIxYWNkZWMxNTc0MGIxMTY0ZmFiZGEwNWZhMjMxZGUyMzQzZThmYjZhY2QzYmFmODE1NWI2NTgxN2FlZTQ5NjAzNmQ2OGU5MzE4N2UxYWJlMzJiM2VmOTdiZWZmODk2ZDZiZDJmMWQxNjI0MTNlMTlkOSIsInQiOjE2MjE3ODAxMzgsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.nxYn-KCqDzrzRlb7eOvYYktd8CloQCRlQ8o8Idz1X-g/Animation-SplashScreen-4.tar.gz</payload>
+  <tags>linux,unix,theme,plasma##majorversion=5,splashscreen,gplv3,kde,plasma,splash,animated,abstract</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="135">
+  <name>Breeze-Colorful</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1332853</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>50</rating>
+  <downloads>796</downloads>
+  <installedfile>/home/brandon/.themes/Breeze-Colorful/*</installedfile>
+  <id>1332853</id>
+  <releasedate>2019-10-25</releasedate>
+  <summary>Dark GTK-3 Theme&lt;br />
+&lt;br />
+Modified Original Breeze GTK-2/3 Theme, adapted for Plasma Theme &lt;span style="color: #d88d00;"> &lt;strong>KDE-Story Colorful&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1332850/" target="_blank" rel="nofollow">&lt;span style="color: red;">...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/a/6/6/aa319e68f88057606dddbbb2176baf38fa1b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/a/6/6/aa319e68f88057606dddbbb2176baf38fa1b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzE5OTg0MTEiLCJvIjoiMSIsInMiOiI0MDczYzI0ZDMzOWE4NTAzOWE2NWE2OTMxMDNiOTM1MjljODY2OGY5MTU4NzNkZjA1YThiYTkxOGQ4ZDFkMmI3ODViYmRjY2EyZGQyNTdmM2MyZDAyYmJiNjRhNTc4ZTJkOGI4NDBkODQzZTAxNDI0NDhhYWEzODhkZWExYzU4YyIsInQiOjE2MjE2NDIxOTgsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.igz0PJPFpeqULPFgfhL6zPee2sGbx3Hs4KwzMvRFDP0/Breeze-Colorful.zip</payload>
+  <tags>linux,unix,theme,gnome,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Red-Black</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1308403</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>44</rating>
+  <downloads>572</downloads>
+  <installedfile>/home/brandon/.themes/Red-Black/*</installedfile>
+  <id>1308403</id>
+  <releasedate>2019-12-06</releasedate>
+  <summary>Dark GTK-3 Theme&lt;br />
+&lt;br />
+Modified Original Breeze GTK-2/3 Theme, adapted for Plasma Theme &lt;span style="color: red;"> &lt;strong>Red-Black&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://store.kde.org/p/1308401/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/e/9/e/0/53720c5a03cbf49ed9816e2e1eff8d90ac7b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/e/9/e/0/53720c5a03cbf49ed9816e2e1eff8d90ac7b.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzU2MzIzNTYiLCJvIjoiMSIsInMiOiI2MTA4YTUzMTZhY2JhNTAzZTdmZDJkYWFkNjYzZTNkZmZiZDA3ZWEzMzM4NzIyMDA4MGU1MTllOGRiMTIzZWZiODViMTM0MTg0N2MxMTI2NjdkYzdlNTVhNTA5NmYxY2I4M2E1OTQ5Nzk3ZDM5OTY4NGMyMDAwYWU0YjA2OTRiOCIsInQiOjE2MjE2NDIyMzcsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.YlIo6mkqoa4pzr2FnqH2C_kcje_jazJMGUZLP6zQgg0/Red-Black.zip</payload>
+  <tags>linux,unix,theme,gnome,modification-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Breeze-Honey</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1345843</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>55</rating>
+  <downloads>684</downloads>
+  <installedfile>/home/brandon/.themes/Breeze-Honey/*</installedfile>
+  <id>1345843</id>
+  <releasedate>2020-07-12</releasedate>
+  <summary>&lt;span style="color: #3771c8;"> &lt;strong>Dark GTK-3 Theme&lt;/strong> &lt;/span>&lt;br />
+&lt;br />
+&lt;span style="color: #3771c8;"> &lt;strong>GTK-2/3 Theme adapted for Plasma Theme&lt;/strong> &lt;/span>  &lt;span style="color: #7a007a;"> &lt;strong>Breeze-Honey&lt;/strong> &lt;/span>, which you can download: &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/c/8/4/913fe8382763d1a299f4f4c7b872fdb0b144.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/c/8/4/913fe8382763d1a299f4f4c7b872fdb0b144.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ1Mzk1MDgiLCJvIjoiMSIsInMiOiIxZTA4NjQ5ZmFhODcwZTM0NWUzMTc5ZDg1NTA1NjM2NmFjZmM4NGRkMDVmZDViNDU4Njk5ZDQwYzA5MTQ0NjNlMTQwMzE4ZmNmNzI5N2I1ZDExMzQxYzRiM2EwNjRjZmVkZjI5OTIzZTEzYjI3MTFhYzA2NzM2ZGIyYzZiNDYzYiIsInQiOjE2MjE2NDIyMDIsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.aseojPnBIkQIZK09-gMM2O2EX-bDqWpXdi6Q8OgImM0/Breeze-Honey.zip</payload>
+  <tags>linux,unix,theme,gnome,modification-product,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="135">
+  <name>Amethyst</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1322964</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>56</rating>
+  <downloads>203</downloads>
+  <installedfile>/home/brandon/.themes/Amethyst/*</installedfile>
+  <id>1322964</id>
+  <releasedate>2021-03-11</releasedate>
+  <summary>GTK-3 Theme adapted for Plasma Theme &lt;span style="color: fuchsia;"> &lt;strong>Amethyst&lt;/strong> &lt;/span>, which you can download: &lt;a href="https://www.pling.com/p/1322963/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+The theme was tested on KDE Plasma...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/d/6/9/c3f96ad4cb05aa919a5263fac19ef969000fa37a259a6b7c39a632099fb7bbe6552a.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/d/6/9/c3f96ad4cb05aa919a5263fac19ef969000fa37a259a6b7c39a632099fb7bbe6552a.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTU0ODM1OTIiLCJvIjoiMSIsInMiOiI2Mjg0Y2ZjYjU4ZmUxNjA4ZTgyMWEyYTY0ZDVjNmNhNmMzMWRkYmJhZGY5ZjkyNjE4YjYxOTJiODg5N2Y2ZDhhMzIyNWEyNTE4ZjcwYTE5NjRkMDU2MmU4Mzc1ZTViZmM5NjQ5NmI3YzM3ZWU2MmNhMTJiYTE4ODA4MmM4OGNhMiIsInQiOjE2MjE2NDIyMTMsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.22NTKthZBVawCwDV-M6OuO55nktDINPUlJlUdn_0uoI/Amethyst.tar.gz</payload>
+  <tags>linux,unix,theme,gnome,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

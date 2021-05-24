@@ -1,0 +1,16 @@
+{
+    "id": "e8df0d1c3e9f4bf8f419f192c87afb43",
+    "metadata": {
+        "fullname": "xrandr-ZOWIE XL LCD-EB8BK06139SL0",
+        "name": "DP-0"
+    },
+    "mode": {
+        "refresh": 143.9814453125,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

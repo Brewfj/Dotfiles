@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/brandon/Wallpaper/silhouette-sunset-lake-nature.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A030A",
+        "foreground": "#d29f8a",
+        "cursor": "#d29f8a"
+    },
+    "colors": {
+        "color0": "#0A030A",
+        "color1": "#661646",
+        "color2": "#5B2246",
+        "color3": "#742548",
+        "color4": "#450B62",
+        "color5": "#A02F1D",
+        "color6": "#8D2D30",
+        "color7": "#d29f8a",
+        "color8": "#936f60",
+        "color9": "#661646",
+        "color10": "#5B2246",
+        "color11": "#742548",
+        "color12": "#450B62",
+        "color13": "#A02F1D",
+        "color14": "#8D2D30",
+        "color15": "#d29f8a"
+    }
+}

@@ -1,2 +1,2 @@
-#!/bin/bash
-nvidia-settings --load-config-only &
+ #!/bin/bash
+ nvidia-settings --load-config-only &

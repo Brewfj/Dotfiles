@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="107">
+  <name>LyraR Cursors</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>yeyushengfan258</author>
+  <homepage>https://store.kde.org/p/1502737</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>2892</downloads>
+  <installedfile>/home/brandon/.icons/LyraR-cursors/*</installedfile>
+  <id>1502737</id>
+  <releasedate>2021-04-05</releasedate>
+  <summary>LyraR cursors for linux desktops</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/6/1/c/5f0aac9710370cf4553cbdfbf67a264a0b62203fea14d0d3fadad3e56304fcdbe616.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/6/1/c/5f0aac9710370cf4553cbdfbf67a264a0b62203fea14d0d3fadad3e56304fcdbe616.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTc2NTI5NTkiLCJvIjoiMSIsInMiOiJmY2NjMTFmYzM1Y2QwMmVjMTQ4ZmIyOWFmODdmZjNhYTQ5NWYzZDA3MzU3MDYzNTc0NDE4ODRkNTMxZjFjYjI0MmI3N2M5OWIwMGJiMzQ3NDI1NWU1NjhhMjdiNmVhYTE3ZmZmNDUyNjdiMDBlMWRhNzdlNjE5MWJhMWVmMDdkMSIsInQiOjE2MjE2NDMwNDQsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.99gVMzbLJzMC7x1sw34ems13Ko18xAdDrEIzeZ11QeM/LyraR-cursors.tar.gz</payload>
+  <tags>gplv3,original-product,linux,unix,cursor</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

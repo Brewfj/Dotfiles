@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-json
+Name=config.json
+Type=Link
+URL[$e]=file:$HOME/.config/qtile/config.json
+X-KDE-LastOpenedWith=firefox

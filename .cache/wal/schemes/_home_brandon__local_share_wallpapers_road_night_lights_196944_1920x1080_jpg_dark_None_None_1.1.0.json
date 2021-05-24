@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/brandon/.local/share/wallpapers/road_night_lights_196944_1920x1080.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090113",
+        "foreground": "#dacbd7",
+        "cursor": "#dacbd7"
+    },
+    "colors": {
+        "color0": "#090113",
+        "color1": "#531269",
+        "color2": "#BB355C",
+        "color3": "#B7AF7C",
+        "color4": "#5D1B94",
+        "color5": "#4732A6",
+        "color6": "#A83FAD",
+        "color7": "#dacbd7",
+        "color8": "#988e96",
+        "color9": "#531269",
+        "color10": "#BB355C",
+        "color11": "#B7AF7C",
+        "color12": "#5D1B94",
+        "color13": "#4732A6",
+        "color14": "#A83FAD",
+        "color15": "#dacbd7"
+    }
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Mirage</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1312310</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>6499</downloads>
+  <installedfile>/home/brandon/.local/share/color-schemes/Mirage.colors</installedfile>
+  <installedfile>/home/brandon/.local/share/color-schemes/LICENSE</installedfile>
+  <installedfile>/home/brandon/.local/share/color-schemes/MirageSolid.colors</installedfile>
+  <id>1312310</id>
+  <releasedate>2019-10-03</releasedate>
+  <summary>Beautiful dark KDE Plasma color scheme.&lt;br />
+Click on the screenshots to enlarge so they will not be blurry&lt;br />
+Plain and simple if you do not click on them and enlarge you are not truly seeing the theme.&lt;br />
+&lt;br />
+Wallpaper in screenshot is from Charlie Henson.&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/0/e/0/7dac94907a6ea0085fa1b392d5a868c4c5ad.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/0/e/0/7dac94907a6ea0085fa1b392d5a868c4c5ad.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzAxMzg5NzEiLCJvIjoiMSIsInMiOiJmNTE5Yzc5ZTNiNGFmMDg2NDk1MzEwZjJlZWJlODM5M2M1MzAwYzNmZTZiYmVkODc1NzhhNDQ0ZjkwZTNiYTYzMzgxMjg0NjAwMDM0OTEwY2ExMjZlYTRkYTU2YjgzNDI1YmYxM2ZjZjZjMmRlZGUzODViMmZmMDRlODQwZTEwMiIsInQiOjE2MjE2NDI5MzUsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.bdPlztfVAD_EmQ_nWuavoLg-KTnNVL9JaWdtSz-MSmA/color-schemes.tar.gz</payload>
+  <tags>original-product,gplv3,linux,unix,theme,kde,plasma,colorscheme,kdeplasma,dark</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

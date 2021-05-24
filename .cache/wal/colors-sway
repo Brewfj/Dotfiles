@@ -1,0 +1,21 @@
+set $wallpaper /home/brandon/Wallpaper/images.jpeg
+
+set $background #0e030f
+set $foreground #f1adca
+
+set $color0 #0e030f
+set $color1 #4C1B44
+set $color2 #6B1A48
+set $color3 #4E2547
+set $color4 #6F254E
+set $color5 #982457
+set $color6 #CF316D
+set $color7 #f1adca
+set $color8 #a8798d
+set $color9 #4C1B44
+set $color10 #6B1A48
+set $color11 #4E2547
+set $color12 #6F254E
+set $color13 #982457
+set $color14 #CF316D
+set $color15 #f1adca

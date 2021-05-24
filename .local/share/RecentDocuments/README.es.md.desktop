@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-markdown
+Name=README.es.md
+Type=Link
+URL[$e]=file:$HOME/.config/qtile/README.es.md
+X-KDE-LastOpenedWith=code-oss

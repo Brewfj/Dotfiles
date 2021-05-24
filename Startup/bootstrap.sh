@@ -1,3 +1,4 @@
+ 
 #!/bin/bash
 #!/bin/sh
 xkbcomp -xkb "$DISPLAY" - | sed 's#key <CAPS>.*#key <CAPS> {\

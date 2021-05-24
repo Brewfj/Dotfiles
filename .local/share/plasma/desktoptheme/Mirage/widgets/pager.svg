@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg11324"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   width="50"
+   height="50"
+   version="1.0"
+   sodipodi:docname="pager.svg"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape">
+  <sodipodi:namedview
+     inkscape:window-height="1019"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#eff0f1"
+     id="base"
+     showgrid="true"
+     inkscape:zoom="12.89961"
+     inkscape:cx="-4.0422656"
+     inkscape:cy="30.496865"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg11324"
+     width="50px"
+     height="50px"
+     inkscape:grid-points="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3261"
+       visible="true"
+       enabled="true"
+       empspacing="5"
+       snapvisiblegridlinesonly="true"
+       color="#0000ff"
+       opacity="0.01960784"
+       empcolor="#0000ff"
+       empopacity="0.03921569" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11329">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs11327">
+    <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <rect
+     style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="hint-tile-center"
+     width="1"
+     height="0.99414408"
+     x="1.1607215"
+     y="1.2080072" />
+  <rect
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     id="normal-topleft"
+     width="1"
+     height="1"
+     x="-14"
+     y="0.99999982"
+     class="ColorScheme-Text"
+     inkscape:label="#rect3157" />
+  <rect
+     class="ColorScheme-Text"
+     y="0.99999982"
+     x="-13"
+     height="1"
+     width="10"
+     id="normal-top"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3158" />
+  <rect
+     class="ColorScheme-Text"
+     y="0.99999982"
+     x="-3"
+     height="1"
+     width="1"
+     id="normal-topright"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3160" />
+  <rect
+     class="ColorScheme-Text"
+     y="9"
+     x="-14"
+     height="1"
+     width="1"
+     id="normal-bottomleft"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3162" />
+  <rect
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     id="normal-bottom"
+     width="10"
+     height="1"
+     x="-13"
+     y="9"
+     class="ColorScheme-Text"
+     inkscape:label="#rect3164" />
+  <rect
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     id="normal-bottomright"
+     width="1"
+     height="1"
+     x="-3"
+     y="9"
+     class="ColorScheme-Text"
+     inkscape:label="#rect3166" />
+  <rect
+     class="ColorScheme-Text"
+     y="1.9999998"
+     x="-14"
+     height="7"
+     width="1"
+     id="normal-left"
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3168" />
+  <rect
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     id="normal-right"
+     width="1"
+     height="7"
+     x="-3"
+     y="1.9999998"
+     class="ColorScheme-Text"
+     inkscape:label="#rect3170" />
+  <rect
+     style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
+     id="normal-center"
+     width="10"
+     height="7"
+     x="-13"
+     y="1.9999998"
+     class="ColorScheme-Text"
+     inkscape:label="#rect3172" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="13"
+     x="-14"
+     height="1"
+     width="1"
+     id="hover-topleft"
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3174" />
+  <rect
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="hover-top"
+     width="10"
+     height="1"
+     x="-13"
+     y="13"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3176" />
+  <rect
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="hover-topright"
+     width="1"
+     height="1"
+     x="-3"
+     y="13"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3178" />
+  <rect
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="hover-bottomleft"
+     width="1"
+     height="1"
+     x="-14"
+     y="21"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3180" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="21"
+     x="-13"
+     height="1"
+     width="10"
+     id="hover-bottom"
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3182" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="21"
+     x="-3"
+     height="1"
+     width="1"
+     id="hover-bottomright"
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3184" />
+  <rect
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="hover-left"
+     width="1"
+     height="7"
+     x="-14"
+     y="14"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3186" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="14"
+     x="-3"
+     height="7"
+     width="1"
+     id="hover-right"
+     style="opacity:1;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3188" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="14"
+     x="-13"
+     height="7"
+     width="10"
+     id="hover-center"
+     style="opacity:0.4;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3190" />
+  <rect
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="active-topleft"
+     width="1"
+     height="1"
+     x="-14"
+     y="25"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3175" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="25"
+     x="-13"
+     height="1"
+     width="10"
+     id="active-top"
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3177" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="25"
+     x="-3"
+     height="1"
+     width="1"
+     id="active-topright"
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3179" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="33"
+     x="-14"
+     height="1"
+     width="1"
+     id="active-bottomleft"
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3181" />
+  <rect
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="active-bottom"
+     width="10"
+     height="1"
+     x="-13"
+     y="33"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3183" />
+  <rect
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="active-bottomright"
+     width="1"
+     height="1"
+     x="-3"
+     y="33"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3185" />
+  <rect
+     class="ColorScheme-Highlight"
+     y="26"
+     x="-14"
+     height="7"
+     width="1"
+     id="active-left"
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     inkscape:label="#rect3187" />
+  <rect
+     style="opacity:0.6;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="active-right"
+     width="1"
+     height="7"
+     x="-3"
+     y="26"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3189" />
+  <rect
+     style="opacity:0.2;fill:#ab4dff;fill-opacity:1;stroke:none"
+     id="active-center"
+     width="10"
+     height="7"
+     x="-13"
+     y="26"
+     class="ColorScheme-Highlight"
+     inkscape:label="#rect3191" />
+</svg>

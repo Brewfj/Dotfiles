@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "c76d064ff8dc81f264654d8315fde3d5",
+        "metadata": {
+            "fullname": "xrandr-Hewlett Packard-HP 27es-3CM728170S",
+            "name": "HDMI-1-0"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "68f0937868ad1697e0e400018acbdf89",
+        "metadata": {
+            "fullname": "xrandr-BenQ RL2455-G1F01467SL0",
+            "name": "DP-1-5"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 1920,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]

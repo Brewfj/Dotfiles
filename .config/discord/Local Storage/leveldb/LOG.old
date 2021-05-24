@@ -1,6 +1,0 @@
-2020/09/12-17:50:17.535 18773 Reusing MANIFEST leveldb/MANIFEST-000001
-2020/09/12-17:50:17.535 18773 Recovering log #80
-2020/09/12-17:50:17.535 18773 Reusing old log leveldb/000080.log 
-2020/09/12-18:30:17.537 1a121 Level-0 table #84: started
-2020/09/12-18:30:17.591 1a121 Level-0 table #84: 8368 bytes OK
-2020/09/12-18:30:17.642 1a121 Delete type=0 #80

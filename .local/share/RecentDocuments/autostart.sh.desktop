@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-shellscript
+Name=autostart.sh
+Type=Link
+URL[$e]=file:$HOME/.config/qtile/autostart.sh
+X-KDE-LastOpenedWith=code-oss

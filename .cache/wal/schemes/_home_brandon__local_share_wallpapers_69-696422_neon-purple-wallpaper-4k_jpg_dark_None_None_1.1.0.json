@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/brandon/.local/share/wallpapers/69-696422_neon-purple-wallpaper-4k.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060215",
+        "foreground": "#e7cae4",
+        "cursor": "#e7cae4"
+    },
+    "colors": {
+        "color0": "#060215",
+        "color1": "#501A8C",
+        "color2": "#4A36A3",
+        "color3": "#6826A1",
+        "color4": "#AB53BE",
+        "color5": "#6C99D7",
+        "color6": "#ACA8D4",
+        "color7": "#e7cae4",
+        "color8": "#a18d9f",
+        "color9": "#501A8C",
+        "color10": "#4A36A3",
+        "color11": "#6826A1",
+        "color12": "#AB53BE",
+        "color13": "#6C99D7",
+        "color14": "#ACA8D4",
+        "color15": "#e7cae4"
+    }
+}

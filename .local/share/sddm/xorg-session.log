@@ -1,0 +1,3 @@
+/home/brandon/.config/qtile/autostart.sh: line 5: /home/brandon/Startup/bootstrap.sh: Permission denied
+[ 05/24/2021 17:41:13.357 x_fence_sync ERROR ] Failed to trigger the fence (X error 136 XSyncBadFence request 134 minor 15 serial 1868)
+[ 05/24/2021 17:41:13.357 paint_all_new ERROR ] x_fence_sync failed, xrender-sync-fence will be disabled from now on.

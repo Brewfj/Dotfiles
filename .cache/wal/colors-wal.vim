@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/brandon/Wallpaper/images.jpeg"
+let background = "#0e030f"
+let foreground = "#f1adca"
+let cursor     = "#f1adca"
+
+" Colors
+let color0  = "#0e030f"
+let color1  = "#4C1B44"
+let color2  = "#6B1A48"
+let color3  = "#4E2547"
+let color4  = "#6F254E"
+let color5  = "#982457"
+let color6  = "#CF316D"
+let color7  = "#f1adca"
+let color8  = "#a8798d"
+let color9  = "#4C1B44"
+let color10 = "#6B1A48"
+let color11 = "#4E2547"
+let color12 = "#6F254E"
+let color13 = "#982457"
+let color14 = "#CF316D"
+let color15 = "#f1adca"

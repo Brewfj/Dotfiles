@@ -1,0 +1,16 @@
+{
+    "id": "c76d064ff8dc81f264654d8315fde3d5",
+    "metadata": {
+        "fullname": "xrandr-Hewlett Packard-HP 27es-3CM728170S",
+        "name": "HDMI-0"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}

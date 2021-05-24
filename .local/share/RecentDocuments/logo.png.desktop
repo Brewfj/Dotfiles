@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=image-png
+Name=logo.png
+Type=Link
+URL[$e]=file:$HOME/Layan-kde/logo.png
+X-KDE-LastOpenedWith=org.kde.gwenview

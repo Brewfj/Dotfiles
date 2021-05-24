@@ -1,2 +1,0 @@
-[2020-09-10 22:08:04.772] [main] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/brandon/.config/Code - OSS/User'
-[2020-09-10 22:08:05.237] [main] [info] update#ctor - updates are disabled as there is no update URL

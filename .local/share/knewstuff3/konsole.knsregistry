@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="462">
+  <name>Pink</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>joaopedroaats</author>
+  <homepage>https://store.kde.org/p/1521463</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>92</downloads>
+  <installedfile>/home/brandon/.local/share/konsole/Pink.colorscheme</installedfile>
+  <id>1521463</id>
+  <releasedate>2021-05-13</releasedate>
+  <summary>More themes available &lt;a href="https://monsene.vercel.app" target="_blank" rel="nofollow">here&lt;/a></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/b/d/2/3/e995c15f7a2bac32f56e15cf2889307ccaaaacadd3144700a286db37a44b24cb474e.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/b/d/2/3/e995c15f7a2bac32f56e15cf2889307ccaaaacadd3144700a286db37a44b24cb474e.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjA5MDI1NjgiLCJvIjoiMSIsInMiOiJkZmNmNWIwNmZiYmIyMWUxZTgwYzY5MmI5OTBmMDEzOWQ5NTY5OTg4NTdlNDU4ZDEyZDg3ZWEyNGE1Nzg2ZGY1NjczZDc1OGY4MzE4NzRiOGIzZDhmNTllNTMxYjcwNTc0MzlkNjI2YThlODVlMDFiMmIwZTc5ZWMwY2Q0YjdkMCIsInQiOjE2MjE2NDMyMjEsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.0VO35a2wUdL9egZ7pXBozaeO7zs2RI7l6FC8mxnC1Us/Pink.colorscheme</payload>
+  <tags>addon,mit-license,original-product</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

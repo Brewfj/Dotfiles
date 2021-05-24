@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>Mirage Breeze Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>freefreeno</author>
+  <homepage>https://store.kde.org/p/1312316</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>61</rating>
+  <downloads>7063</downloads>
+  <installedfile>/home/brandon/.local/share/icons/Mirage-Breeze-Dark/*</installedfile>
+  <id>1312316</id>
+  <releasedate>2019-10-02</releasedate>
+  <summary>Gradient icons made from the Breeze Dark icon theme.&lt;br />
+I downloaded the very latest edition so these icons would be up to date.&lt;br />
+Click on the screenshots to enlarge and the blurriness will go away and you can see much clearer.&lt;br />
+&lt;br />
+I am working the the update for the Mirage KDE...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/8/6/b/ecb1a79cb22dc8c1e7a1093f71da3103f54d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/8/6/b/ecb1a79cb22dc8c1e7a1093f71da3103f54d.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzAwNTk0NTAiLCJvIjoiMSIsInMiOiJlNTFkOGNlNzJjMTU5ZTNlMjVkOTQzY2RkNjI2YjFiMTVjOWIwYTAxNDc4OWFiMTViYTJmN2Y4MTIxZTg5N2I0NTk5OWNiN2UzOTAyMDdjZDZiMzcxNDEyN2U1Y2RlNDM3YjZhZWIzMjk4YzUwMWQzOTE2YTY2NmZlZmQ3MGRjMCIsInQiOjE2MjE2NDMwMDEsInN0ZnAiOm51bGwsInN0aXAiOiIyNC42MC4xMzUuMTg1In0.gl_5Ko7c-9E0LgQj-M2AS52Um5XfLaEzivf7rztMP9g/Mirage-Breeze-Dark.tar.gz</payload>
+  <tags>kde,kdeplasma,mirage,plasma,gradient,linux,unix,icon-theme,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

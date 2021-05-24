@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-x-python
+Name=keys.py
+Type=Link
+URL[$e]=file:$HOME/.config/qtile/settings/keys.py
+X-KDE-LastOpenedWith=code-oss

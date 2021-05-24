@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/brandon/.local/share/wallpapers/thumb-1920-311326.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c1d",
+        "foreground": "#b0bcd0",
+        "cursor": "#b0bcd0"
+    },
+    "colors": {
+        "color0": "#0d0c1d",
+        "color1": "#9E3C62",
+        "color2": "#423A8F",
+        "color3": "#52378F",
+        "color4": "#62549A",
+        "color5": "#98619B",
+        "color6": "#CD6796",
+        "color7": "#b0bcd0",
+        "color8": "#7b8391",
+        "color9": "#9E3C62",
+        "color10": "#423A8F",
+        "color11": "#52378F",
+        "color12": "#62549A",
+        "color13": "#98619B",
+        "color14": "#CD6796",
+        "color15": "#b0bcd0"
+    }
+}

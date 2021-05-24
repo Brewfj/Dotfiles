@@ -1,0 +1,24 @@
+wallpaper: "/home/brandon/Wallpaper/images.jpeg"
+
+special:
+    background: "#0e030f"
+    foreground: "#f1adca"
+    cursor: "#f1adca"
+
+colors:
+    color0: "#0e030f"
+    color1: "#4C1B44"
+    color2: "#6B1A48"
+    color3: "#4E2547"
+    color4: "#6F254E"
+    color5: "#982457"
+    color6: "#CF316D"
+    color7: "#f1adca"
+    color8: "#a8798d"
+    color9: "#4C1B44"
+    color10: "#6B1A48"
+    color11: "#4E2547"
+    color12: "#6F254E"
+    color13: "#982457"
+    color14: "#CF316D"
+    color15: "#f1adca"

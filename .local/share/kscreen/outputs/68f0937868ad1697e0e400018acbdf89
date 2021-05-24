@@ -1,0 +1,16 @@
+{
+    "id": "68f0937868ad1697e0e400018acbdf89",
+    "metadata": {
+        "fullname": "xrandr-BenQ RL2455-G1F01467SL0",
+        "name": "DP-5"
+    },
+    "mode": {
+        "refresh": 60,
+        "size": {
+            "height": 1080,
+            "width": 1920
+        }
+    },
+    "rotation": 1,
+    "scale": 1
+}
