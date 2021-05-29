@@ -44,12 +44,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/brandon/Downloads" added="2021-05-23T20:07:16.361319Z" modified="2021-05-23T20:07:16.361325Z" visited="2021-05-23T20:07:16.361320Z">
+  <bookmark href="file:///home/brandon/Downloads" added="2021-05-23T20:07:16.361319Z" modified="2021-05-25T01:47:34.318859Z" visited="2021-05-23T20:07:16.361320Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-05-23T20:07:16.361322Z" count="1"/>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-05-25T01:47:34.318858Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -104,12 +104,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/brandon/.local/share/qtile/qtile.log" added="2021-05-23T20:38:26.421788Z" modified="2021-05-23T20:38:26.421793Z" visited="2021-05-23T20:38:26.421789Z">
+  <bookmark href="file:///home/brandon/.local/share/qtile/qtile.log" added="2021-05-23T20:38:26.421788Z" modified="2021-05-25T23:06:10.064449Z" visited="2021-05-23T20:38:26.421789Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-log"/>
         <bookmark:applications>
-          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-05-23T20:38:26.421790Z" count="1"/>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-05-25T23:06:10.064448Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -124,12 +124,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/brandon/Wallpaper" added="2021-05-23T21:37:14.057903Z" modified="2021-05-23T21:48:46.494073Z" visited="2021-05-23T21:37:14.057904Z">
+  <bookmark href="file:///home/brandon/Wallpaper" added="2021-05-23T21:37:14.057903Z" modified="2021-05-25T00:30:17.807555Z" visited="2021-05-23T21:37:14.057904Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-05-23T21:48:46.494066Z" count="2"/>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-05-25T00:30:17.807552Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -171,6 +171,96 @@
         <mime:mime-type type="image/png"/>
         <bookmark:applications>
           <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-05-24T01:55:33.178621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/backgrounds/50acb470afa28ac603d52e80a213b0b7.jpg" added="2021-05-25T01:44:20.534370Z" modified="2021-05-25T01:44:20.534376Z" visited="2021-05-25T01:44:20.534371Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-05-25T01:44:20.534373Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/Downloads/50acb470afa28ac603d52e80a213b0b7.jpg" added="2021-05-25T01:44:45.550284Z" modified="2021-05-25T01:44:45.550287Z" visited="2021-05-25T01:44:45.550285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2021-05-25T01:44:45.550286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/Downloads/reduce-kmalloc-limit-455.38.patch" added="2021-05-26T03:01:47.206993Z" modified="2021-05-26T03:01:47.206996Z" visited="2021-05-26T03:01:47.206993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome" exec="&apos;google-chrome %u&apos;" modified="2021-05-26T03:01:47.206995Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/NVIDIA.txt" added="2021-05-27T14:38:54.069671Z" modified="2021-05-27T14:38:54.069674Z" visited="2021-05-27T14:38:54.069671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-05-27T14:38:54.069673Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/ROM/rtx.rom" added="2021-05-27T14:50:15.937863Z" modified="2021-05-27T14:50:15.937865Z" visited="2021-05-27T14:50:15.937863Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="bless" exec="&apos;bless %u&apos;" modified="2021-05-27T14:50:15.937864Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/ROM/patch.rom" added="2021-05-27T14:52:49.117697Z" modified="2021-05-27T14:52:49.117699Z" visited="2021-05-27T14:52:49.117698Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="bless" exec="&apos;bless %u&apos;" modified="2021-05-27T14:52:49.117698Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/Win10ISO/Win10_21H1_English_x64.iso" added="2021-05-27T15:00:26.957770Z" modified="2021-05-27T15:00:26.957773Z" visited="2021-05-27T15:00:26.957771Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2021-05-27T15:00:26.957772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/HDD/Win10" added="2021-05-27T15:09:00.001366Z" modified="2021-05-27T15:09:00.001368Z" visited="2021-05-27T15:09:00.001366Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2021-05-27T15:09:00.001367Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/brandon/HDD/VM" added="2021-05-27T15:14:02.534729Z" modified="2021-05-27T15:14:02.534732Z" visited="2021-05-27T15:14:02.534730Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2021-05-27T15:14:02.534730Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

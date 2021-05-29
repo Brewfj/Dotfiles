@@ -1,0 +1,15 @@
+2021/05/28-12:48:57.939 54d Reusing MANIFEST /home/brandon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-12:48:57.939 54d Recovering log #48
+2021/05/28-12:48:57.942 54d Reusing old log /home/brandon/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000048.log 
+2021/05/28-12:48:57.942 54d Delete type=2 #49
+2021/05/28-12:48:57.942 54d Delete type=2 #46
+2021/05/28-12:48:58.298 52a Level-0 table #53: started
+2021/05/28-12:48:58.302 52a Level-0 table #53: 238231 bytes OK
+2021/05/28-12:48:58.305 52a Delete type=0 #48
+2021/05/28-12:48:58.305 52a Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/05/28-12:49:37.964 54a Compacting 1@1 + 1@2 files
+2021/05/28-12:49:37.966 54a Generated table #54@1: 176 keys, 23878 bytes
+2021/05/28-12:49:37.966 54a Compacted 1@1 + 1@2 files => 23878 bytes
+2021/05/28-12:49:37.968 54a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/05/28-12:49:37.968 54a Delete type=2 #50
+2021/05/28-12:49:37.968 54a Delete type=2 #53

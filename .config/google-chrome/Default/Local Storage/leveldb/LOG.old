@@ -1,0 +1,15 @@
+2021/05/28-14:52:26.902 3 Reusing MANIFEST /home/brandon/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/05/28-14:52:26.902 3 Recovering log #99
+2021/05/28-14:52:26.902 3 Reusing old log /home/brandon/.config/google-chrome/Default/Local Storage/leveldb/000099.log 
+2021/05/28-14:54:32.866 7 Level-0 table #103: started
+2021/05/28-14:54:32.869 7 Level-0 table #103: 91495 bytes OK
+2021/05/28-14:54:32.872 7 Delete type=0 #99
+2021/05/28-14:54:32.872 7 Compacting 4@0 + 1@1 files
+2021/05/28-14:54:32.878 7 Generated table #104@0: 424 keys, 303475 bytes
+2021/05/28-14:54:32.878 7 Compacted 4@0 + 1@1 files => 303475 bytes
+2021/05/28-14:54:32.880 7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/05/28-14:54:32.880 7 Delete type=2 #103
+2021/05/28-14:54:32.880 7 Delete type=2 #100
+2021/05/28-14:54:32.880 7 Delete type=2 #94
+2021/05/28-14:54:32.880 7 Delete type=2 #98
+2021/05/28-14:54:32.880 7 Delete type=2 #96

@@ -138,4 +138,4 @@ ex ()
   fi
 }
 neofetch
-cat ~/.cache/wal/sequences &
+#cat ~/.cache/wal/sequences &

@@ -1,0 +1,2 @@
+01:00.0 VGA compatible controller [0300]: NVIDIA Corporation GA104 [GeForce RTX 3070] [10de:2484] (rev a1)
+	01:00.1 Audio device [0403]: NVIDIA Corporation Device [10de:228b] (rev a1)

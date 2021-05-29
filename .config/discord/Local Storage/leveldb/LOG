@@ -1,0 +1,6 @@
+2021/05/27-19:35:06.592 6f47 Reusing MANIFEST /home/brandon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/05/27-19:35:06.593 6f47 Recovering log #6
+2021/05/27-19:35:06.594 6f47 Reusing old log /home/brandon/.config/discord/Local Storage/leveldb/000006.log 
+2021/05/27-21:34:07.233 6801c Level-0 table #10: started
+2021/05/27-21:34:07.235 6801c Level-0 table #10: 7411 bytes OK
+2021/05/27-21:34:07.237 6801c Delete type=0 #6

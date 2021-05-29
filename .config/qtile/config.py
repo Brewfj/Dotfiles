@@ -1,9 +1,9 @@
 ###################################
-# Qtile Config Created by Bojofil
+# Qtile Config Created by brewfj
 #
-# https://github.com/Bojofil
+# https://github.com/brewfj
 #
-# bojofil@protonmail.com
+# brewfj@protonmail.com
 ###################################
 
 import os
@@ -20,7 +20,7 @@ mod = "mod4"
 myTerm = "alacritty"                                    
 myConfig = "/home/brandon/.config/qtile/config.py"
 PROMPT = "rofi -lines 12 -padding 18 -width 60 -location 0 -show drun -sidebar-mode -columns 3"
-Chromium = "chromium"    
+Browser = "google-chrome-stable"    
 
 
 keys = [
@@ -51,7 +51,7 @@ keys = [
              ),
         Key(
              [mod, "shift"], "w",
-             lazy.spawn(Chromium),
+             lazy.spawn(Browser),
              desc='Launch Chromium'
              ),
          Key(
@@ -169,8 +169,8 @@ for i, (name, kwargs) in enumerate(group_names, 1):
 
 layout_theme = {"border_width": 0,
                 "margin": 0,
-                "border_focus": "#000000",
-                "border_normal": "#000000"
+                "border_focus": "#0e030f",
+                "border_normal": "#0e030f"
                 }
 
 
@@ -192,32 +192,32 @@ layouts = [
          fontsize = 10,
          sections = ["FIRST", "SECOND"],
          section_fontsize = 11,
-         bg_color = "#0D1E33",
+         bg_color = "#0e030f",
          active_bg = "#3473AC",
          active_fg = "#C6E0E8",
-         inactive_bg = "#0D1E33",
+         inactive_bg = "#0e030f",
          inactive_fg = "#8A9CA2",
          padding_y = 5,
          section_top = 10,
          panel_width = 320
          ),
-     #layout.Floating(**layout_theme)
+     layout.Floating(**layout_theme)
 ]
 
 
-colors = [["#0D1E33", "#0D1E33"], 
-          ["#3473AC", "#3473AC"], 
-          ["#C6E0E8", "#C6E0E8"], 
-          ["#0D1E33", "#0D1E33"], 
-          ["#d50156", "#d50156"], 
-          ["#3473AC", "#3473AC"], 
-          ["#C6E0E8", "#C6E0E8"],
-          ["#5BAFD5", "#5BAFD5"],
-          ["#f693cf", "#f693cf"],
-          ["#0e030f", "#0e030f"],
-          ["#9B4CFA", "#9B4CFA"],
-          ["#74113a", "#74113a"],
-          ["#0e030f,   #0e030f"]
+colors = [["#0e030f", "#0e030f"], #0
+          ["#3473AC", "#3473AC"], #1
+          ["#C6E0E8", "#C6E0E8"], #2
+          ["#0e030f", "#0e030f"], #3
+          ["#d50156", "#d50156"], #4
+          ["#3473AC", "#3473AC"], #5
+          ["#C6E0E8", "#C6E0E8"], #6
+          ["#5BAFD5", "#5BAFD5"], #7
+          ["#f693cf", "#f693cf"], #8
+          ["#0e030f", "#0e030f"], #9
+          ["#9B4CFA", "#9B4CFA"], #10
+          ["#74113a", "#74113a"], #11
+          ["#0e030f,   #0e030f"] #12
                         ]
 widget_defaults = dict(
     font="Ubuntu Nerd Font",
@@ -232,8 +232,8 @@ extension_defaults = widget_defaults.copy()
 def init_widgets_list():
     widgets_list = [
                widget.GroupBox(font="Ubuntu Nerd Font",
-                        fontsize = 18,
-                        margin_y = 1,
+                        fontsize = 12,
+                        margin_y = 5,
                         margin_x = 0,
                         padding_y = 3,
                         padding_x = 1,
@@ -261,7 +261,7 @@ def init_widgets_list():
                         foreground = colors[8],
                         background = colors[9],
                         padding = 10,
-                        font= "Noto Sans",
+                        font= "Ubuntu",
                         fontsize = 12
                         ),
                 widget.TextBox(
@@ -271,14 +271,14 @@ def init_widgets_list():
                         padding=0,
                         fontsize=36
                         ),
-               #widget.CPU(
-                        #foreground=colors[2],
-                        #background=colors[4],
-                        #padding = 0,
-                        #fontsize=12,
-                        #update_interval = 3,
-                        #format = '  {load_percent} %'
-                       #),
+                widget.CPU(
+                        background=colors[11],
+                        foreground=colors[8],
+                        padding = 0,
+                        fontsize=12,
+                        update_interval = 3,
+                        format = '  {load_percent} %'
+                       ),
                        
                #widget.TextBox(
                         #text='',
@@ -287,19 +287,20 @@ def init_widgets_list():
                         #padding=0,
                         #fontsize=36
                         #),
-               widget.TextBox(
-                        text=" ",
-                        padding = 0,
-                        foreground=colors[8],
-                        background=colors[11],
-                        fontsize=12
-                        ),
-               widget.ThermalSensor(
-                        foreground=colors[8],
-                        background=colors[11],
-                        padding = 5,
-                        update_interval = 2
-                        ),
+               #widget.TextBox(
+                #        text=" ",
+                 #       padding = 0,
+                  #      foreground=colors[8],
+                   #     background=colors[11],
+                    #    fontsize=12
+                     #   ),
+               #widget.ThermalSensor(
+                #        foreground=colors[8],
+                 #       background=colors[11],
+                  #      padding = 5,
+                   #     update_interval = 2,
+                    #    show_tag = "true"
+                     #   ),
                widget.TextBox(
                         text='',
                         background = colors[11],
@@ -326,18 +327,18 @@ def init_widgets_list():
                         padding = 3 , 
                         foreground = colors[8] ,
                         background = colors [11] ,
-                        mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e yay -Syyu')} 
+                        mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e paru')} 
                         ),          
                 widget.CheckUpdates(
                        display_format = '{updates}',
-                       distro = 'Arch', 
+                       distro = 'Arch_checkupdates', 
                        update_interval = 60,
                        padding = 0,
                        foreground = colors[8],
                        background = colors[11],
                        colour_have_updates = colors[8],
                        colour_no_updates = colors[8],
-                       mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e yay -Syyu')}
+                       mouse_callbacks = {'Button1': lambda qtile: qtile.cmd_spawn(myTerm + ' -e paru')}
                        ),
                # widget.Net(
                        #  interface = "eno2",
@@ -390,14 +391,10 @@ def init_widgets_list():
                         background = colors[8],
                         format="  %A %B %d, %Y    %l:%M %p "
                         ),
-               widget.Sep(
-                        linewidth = 0,
-                        padding = 10,
-                        foreground = colors[8],
-                        background = colors[9]
-                        ),
               ]
     return widgets_list
+
+    
 
 # Screens
 
@@ -437,7 +434,7 @@ dgroups_app_rules = []
 def assign_app_group(client):
      d = {}
      d[""] = ["Spotify","spotify", "Discord", "discord", ]
-     d[""] = ["Chromium", "chromium", ]
+     d[""] = ["google-chrome", "Google-chrome", "google-chrome-stable" ]
      d[""] = [ "alacritty", "Alacritty",  ]
      d[""] = ["Thunar", "Ranger", "Nitrogen", "thunar", "ranger", "nitrogen",  ]
      d[""] = ["code-oss", "Code-oss", "Code", "code", ]
@@ -449,6 +446,29 @@ def assign_app_group(client):
          if wm_class in list(d.values())[i]:
              group = list(d.keys())[i]
              client.togroup(group)
+
+@hook.subscribe.client_new
+def floating_dialogs(window):
+    dialog = window.window.get_wm_type() == 'dialog'
+    transient = window.window.get_wm_transient_for()
+    if dialog or transient:
+        window.floating = True
+
+floating_layout = layout.Floating(**layout_theme,
+    float_rules=[
+        {'wm_type': 'confirm'},
+        {'wm_type': 'dialog'},
+        {'wm_type': 'download'},
+        {'wm_type': 'error'},
+        {'wm_type': 'file_progress'},
+        {'wm_type': 'notification'},
+        {'wmclass': 'splash'},
+        {'wmclass': 'toolbar'},
+        {'wmclass': 'confirmreset'},  # gitk
+        {'wmclass': 'makebranch'},  # gitk
+        {'wmclass': 'maketag'},  # gitk
+        {'wmclass': 'ssh-askpass'},  # ssh-askpass
+])             
 
 main = None
 follow_mouse_focus = True

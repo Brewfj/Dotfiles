@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<session>
+	<windowheight>1057</windowheight>
+	<windowwidth>1920</windowwidth>
+	<activefile>/home/brandon/ROM/patch.rom</activefile>
+	<file>
+		<path>/home/brandon/ROM/patch.rom</path>
+		<offset>0</offset>
+		<cursoroffset>0</cursoroffset>
+		<cursordigit>0</cursordigit>
+		<layout>/usr/share/bless/bless-default.layout</layout>
+		<focusedarea>0</focusedarea>
+	</file>
+</session>

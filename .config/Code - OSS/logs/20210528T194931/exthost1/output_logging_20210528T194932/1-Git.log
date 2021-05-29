@@ -1,0 +1,6 @@
+Looking for git in: git
+Using git 2.31.1 from git
+> git rev-parse --git-dir
+Open repository: /home/brandon
+> git status -z -u
+> git check-ignore -v -z --stdin

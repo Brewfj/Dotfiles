@@ -2,7 +2,7 @@
 # /home/brandon/.nvidia-settings-rc
 #
 # Configuration file for nvidia-settings - the NVIDIA X Server Settings utility
-# Generated on Sun May 23 16:05:39 2021
+# Generated on Thu May 27 13:52:38 2021
 #
 
 # ConfigProperties:
@@ -74,9 +74,19 @@ Timer = Memory_Used_(GPU_0),Yes,3000
 [DPY:DP-2]/ColorSpace=0
 [DPY:DP-2]/ColorRange=0
 [DPY:DP-2]/SynchronousPaletteUpdates=0
+[DPY:DP-3]/RedBrightness=0.000000
+[DPY:DP-3]/GreenBrightness=0.000000
+[DPY:DP-3]/BlueBrightness=0.000000
+[DPY:DP-3]/RedContrast=0.000000
+[DPY:DP-3]/GreenContrast=0.000000
+[DPY:DP-3]/BlueContrast=0.000000
+[DPY:DP-3]/RedGamma=1.000000
+[DPY:DP-3]/GreenGamma=1.000000
+[DPY:DP-3]/BlueGamma=1.000000
 [DPY:DP-3]/Dithering=0
 [DPY:DP-3]/DitheringMode=0
 [DPY:DP-3]/DitheringDepth=0
+[DPY:DP-3]/DigitalVibrance=1023
 [DPY:DP-3]/ColorSpace=0
 [DPY:DP-3]/ColorRange=0
 [DPY:DP-3]/SynchronousPaletteUpdates=0
@@ -86,19 +96,9 @@ Timer = Memory_Used_(GPU_0),Yes,3000
 [DPY:DP-4]/ColorSpace=0
 [DPY:DP-4]/ColorRange=0
 [DPY:DP-4]/SynchronousPaletteUpdates=0
-[DPY:DP-5]/RedBrightness=0.000000
-[DPY:DP-5]/GreenBrightness=0.000000
-[DPY:DP-5]/BlueBrightness=0.000000
-[DPY:DP-5]/RedContrast=0.000000
-[DPY:DP-5]/GreenContrast=0.000000
-[DPY:DP-5]/BlueContrast=0.000000
-[DPY:DP-5]/RedGamma=1.000000
-[DPY:DP-5]/GreenGamma=1.000000
-[DPY:DP-5]/BlueGamma=1.000000
 [DPY:DP-5]/Dithering=0
 [DPY:DP-5]/DitheringMode=0
 [DPY:DP-5]/DitheringDepth=0
-[DPY:DP-5]/DigitalVibrance=1023
 [DPY:DP-5]/ColorSpace=0
 [DPY:DP-5]/ColorRange=0
 [DPY:DP-5]/SynchronousPaletteUpdates=0

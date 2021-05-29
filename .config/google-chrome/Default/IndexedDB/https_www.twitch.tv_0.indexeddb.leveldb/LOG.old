@@ -1,0 +1,7 @@
+2021/05/28-13:39:21.361 2638d Reusing MANIFEST /home/brandon/.config/google-chrome/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-13:39:21.361 2638d Recovering log #3
+2021/05/28-13:39:21.361 2638d Reusing old log /home/brandon/.config/google-chrome/Default/IndexedDB/https_www.twitch.tv_0.indexeddb.leveldb/000003.log 
+2021/05/28-13:39:25.460 2638d Level-0 table #5: started
+2021/05/28-13:39:25.461 2638d Level-0 table #5: 846 bytes OK
+2021/05/28-13:39:25.463 2638d Delete type=0 #3
+2021/05/28-13:39:25.463 2638d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

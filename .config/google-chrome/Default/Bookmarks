@@ -1,0 +1,55 @@
+{
+   "checksum": "50e8e5eb1c8b2669a192f4e798f01357",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13220033604575665",
+            "guid": "fc9a9f40-ab55-4da1-8501-7fd4705c5f64",
+            "id": "5",
+            "name": "CompTIA :: Pearson VUE",
+            "type": "url",
+            "url": "https://home.pearsonvue.com/comptia"
+         }, {
+            "date_added": "13242566240905804",
+            "guid": "37fa1394-a8d7-42f9-9ca8-f0d175da4558",
+            "id": "6",
+            "name": "Web Login",
+            "type": "url",
+            "url": "https://ws3.delhaize.com/psp/DZASYS/SS/?cmd=start"
+         }, {
+            "date_added": "13265410389845140",
+            "guid": "b8c49f09-a26d-4d56-ae7f-449b59f77855",
+            "id": "7",
+            "name": "Rev+Transcription+Style+Guide+v4.0.1.pdf",
+            "type": "url",
+            "url": "https://cf-public.rev.com/styleguide/transcription/Rev+Transcription+Style+Guide+v4.0.1.pdf"
+         } ],
+         "date_added": "13266421922944025",
+         "date_modified": "13265410389845140",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13266421922944026",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13266421922944027",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CugBCscBCIiBAhLAARKMAQgCEk4KBgoCYm0QARAzGhIJgM/wOCfDBQAhgM/wOCfDBQAiFAlBL3BIJ8MFABAFGcknTW4ROLXZMhgKFggCEQ8Zh0gnwwUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmAz/A4J8MFACGAz/A4J8MFADIYChYIAhEPGYdIJ8MFABgAIQAAAAAAAAAAIAAyHzg1QWN5ZDdtN0VnUVFHS3NaX2o1Smp1c3k1MDZtaGNIoaSgnZovcKGkoJ2aLxIAIAEqGDRSZG93Wlo3QmVjelBZdXhHK0ovb1E9PRKrAQgBEqYBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9Ek5aOkFEcXRBWnh4em51OFpicE5Ed3JYTnJ3TG42blR3MlNLUWZkRW5ZcHFSVngyVk5PTE5pNmhXaFRCR0dVSWJuM1JIZVJuMG9xNkNVSmYYACAAKAAwxp7twvTk8AI4AEAAShxVK0dHSXRaRURwWnNJU2xPVWFJVHVJTGRNbkk9WgBlAAAAABLDAQgDEr4BChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWndRNmlWVksrc0ZlWnZBWG02azlheURmTFBtaFdoaG1yWjR5REdXT3pTUEs2aERHZ0JRZnl2STkySzBDTDViV0gwb0w3VGJlNmE0a1BwUDBOOGUyanZMMDFMRzRnPT0YACAAKAAwxp7twvTk8AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgBlAAAAABLDAQgCEr4BChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWnlhS01RcWtxOXpXaVpocWhJeGh4R1NYQUFFTlRYQ05pT3pnVThvWmpSdmZrOGo2UDlmS2gyTmJnVGs2a1c0UExpYzdSUzVVQlloRlJyeldmTmRic1VQVW9DWWtRPT0YACAAKAAwxp7twvTk8AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABKuAggHEqkCChxJb3hlQzVtYlc3T2tjSTJQQmZCb1NLanVodEE9EqYBWjpBRHF0QVp3dEppWkJPMjJjTHBBWG13NFNSVlNPcXJRK01sWlFGUHh2d2tiQ25lNzV3TWJKUWtoVVIwS0YrVTU0L2R2eU5lUjYzTEVsb3JUZkxwc2l5ZXZReWszanpnT0piRXBDMVR1anl1SCtJQjBhOFpwWVRNQ0JqZk1iV0dEaGRRSm4vb1NHN0VrUm1QZ09DVWV1dEU3U09wWVdtMi9YN1E9PRgAIAAoADDi7JSNvMfwAjjVnvK6li9A1Z7yupYvShxSUnpXVHpWWGtFNm5mV0x6ZllYZ0tMdk1rZ3c9WiAiHv+qTHNEZWsrN25LRmNUNitPdGJ2b3BTVWtUelBZPWUAAAAAEq0CCAYSqAIKHDFVR0xkU0N4VkVxK3Rsclp6MmNHY0FQeFB0RT0SpgFaOkFEcXRBWnd0SmlaQk8yMmNMcEFYbXc0U1JWU09oK2tET0sxaVMrSjNUdjY5NnJyWGdtWDlQU3BpZFZkS0tjeVpEN1A4dkJEZzFyT2ZRNWNSbHZBQnl4RjdJbkkyaUxGNXJlOFNQM1FQYkgxSm50UFVLSDg1dXNVaVc5eFFFMzkxN2pwQklyTEtJOWdqT01vWW1PY1NGUFBZV0g0Z2lvMlYzUT09GAAgAigCMMDewMP05PACOIqF+q3BLkDVmqCdmi9KHGVIaGVhaVRPekZlSU1EYUJ1STdWbWRhUFJmOD1aHyId/1RManNBR1pSU011dks1a2lPQkZlMzVudllpdz1lqi0QiRKtAggFEqgCChxvVG5hbDM0MHgveEdKVy8yTExISXhXQllEdEE9EqYBWjpBRHF0QVp3dEppWkJPMjJjTHBBWG13NFNSVlNPZGZabGJRWmR2c2J5VlpKcG01d2tmZTFqTjFWZG1iRzZNTExTY3VobHZzbHNrN2kyWU15UjcyaHVZUGRsMXhlaTVybFpnRWIrMUl1d1J6ZGtJOXdUWFpTMWFyNVI2cXl5enJmT2VwOWZva2hVcTZsOUpSdDA4VWFpMzRYWVN0T0t3b3BWOGc9PRgAIAIoAjDA3sDD9OTwAjjfh8e17S1A1ZqgnZovShxWaXdyWDE3TEpjeVdFOHJtaUNSdWNMQlVlQjQ9Wh8iHfp1UCtVblR1S2JSNmFXZ3NHNStZbkhiSTMyeFU9ZZavIagYASDjp6Cdmi8oAA==",
+   "version": 1
+}

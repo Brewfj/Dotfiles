@@ -1,0 +1,3 @@
+2021/05/28-14:29:07.822 101db Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-14:29:07.823 101db Recovering log #3
+2021/05/28-14:29:07.829 101db Reusing old log /home/brandon/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 

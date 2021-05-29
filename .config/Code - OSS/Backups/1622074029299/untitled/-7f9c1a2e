@@ -1,0 +1,2 @@
+untitled:Untitled-1 {"typeId":""}
+sudo chmod +x /etc/libvirt/hooks/qemu

@@ -1,0 +1,6 @@
+2021/05/25-10:25:38.137 39084 Creating DB /home/brandon/.config/chromium/Default/IndexedDB/https_69d835072d939975fef99dd9d13a2fd8.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/05/25-10:25:38.142 39084 Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/https_69d835072d939975fef99dd9d13a2fd8.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/25-10:25:40.592 34e1e Level-0 table #5: started
+2021/05/25-10:25:40.594 34e1e Level-0 table #5: 439 bytes OK
+2021/05/25-10:25:40.596 34e1e Delete type=0 #3
+2021/05/25-10:25:40.596 34e1e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

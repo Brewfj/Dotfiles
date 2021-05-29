@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/stylesheets/vendor/css/font-awesome.css">
+    <link rel="stylesheet" href="/assets/stylesheets/vendor/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/stylesheets/vendor/css/jquery-ui-1.9.2.custom.min.css">
+    <link rel="stylesheet" href="/assets/stylesheets/window.css">
+    <script type="text/javascript" src="/app/vendor/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="/app/vendor/jquery-ui-1.9.2.custom.min.js"></script>
+    <script type="text/javascript" src="/app/vendor/underscore.js"></script>
+    <script type="text/javascript" src="/app/vendor/backbone.js"></script>
+    <script type="text/javascript" src="/app/vendor/bootstrap.js"></script>
+    <script type="text/javascript" src="/app/vendor/uri.js"></script>
+    <script type="text/javascript" src="/app/utils.js"></script>
+    <script type="text/javascript" src="/app/firertc.js"></script>
+    <script type="text/javascript" src="/app/oauth.js"></script>
+    <script type="text/javascript" src="/app/messenger.js"></script>
+    <script type="text/javascript" src="/app/notifications.js"></script>
+    <script type="text/javascript" src="/app/window.js"></script>
+    <script type="text/javascript" src="/app/models/user-model.js"></script>
+    <script type="text/javascript" src="/app/views/window-view.js"></script>
+    <script type="text/javascript" src="/app/views/registration-view.js"></script>
+    <script type="text/javascript" src="/app/views/session-view.js"></script>
+  </head>
+  <body>
+    <div class="window-container">
+      <div class="menu-bar">
+        <div class="logo-container">
+          <img src="/assets/images/firertc-icon-grey-32.png" />
+        </div>
+        <div class="flash"><span class="message"></span></div>
+        <div class="btn-group menu">
+          <a class="minimize-app"><i class="fa fa-minus fa-lg fa-fw"></i></a>
+          <a class="close-app top"><i class="fa fa-close fa-lg fa-fw"></i></a>
+          <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" style="display:none;">
+            <i class="fa fa-bars fa-fw fa-lg"></i>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a class="invitation-link auth-required" href="https://phone.firertc.com/new_invite" target="_blank">
+                <i class="fa fa-users fa-fw"></i> Invite Buddies
+              </a>
+            </li>
+            <li>
+              <a class="chrome-extension-link" href="https://bit.ly/firertcext" target="_blank">
+                <i class="fa fa-chrome fa-fw"></i> Chrome Extension
+              </a>
+            </li>
+            <li>
+              <a class="change-password-link auth-required" href="https://phone.firertc.com/auth/edit" target="_blank">
+                <i class="fa fa-unlock-alt fa-fw"></i> Change Password
+              </a>
+            </li>
+            <li>
+              <a class="settings-link auth-required" href="https://phone.firertc.com/settings" target="_blank">
+                <i class="fa fa-gear fa-fw"></i> Settings
+              </a>
+            </li>
+            <li>
+              <a class="support-link" href="http://firertc.zendesk.com" target="_blank">
+                <i class="fa fa-question fa-fw"></i> Support
+              </a>
+            </li>
+            <li>
+              <a class="sign-out-link">
+                <i class="fa fa-sign-out fa-fw"></i> Log out
+              </a>
+            </li>
+            <li>
+              <a class="close-app">
+                <i class="fa fa-close fa-fw"></i> Close App
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <webview id="firertc" src="" autosize="on" minwidth="400" maxwidth="600" minheight="640" maxheight="960" style="display:none;"></webview>
+      <div class="registration-container" style="display:none;">
+        <h2>
+          Create your FireRTC Account<br>
+          <small>
+            Already have an account? <br>
+            <a class="login" href="#">Log in here.</a><br>
+          </small>
+        </h2>
+        <form accept-charset="UTF-8" action="/auth" class="simple_form form-horizontal new-user" id="new_user" method="post" novalidate="novalidate" role="form">
+          <div class="form-group email optional user_email">
+            <div class="col-sm-offset-2 col-sm-8 col-xs-offset-2 col-xs-8">
+              <input autofocus="autofocus" class="string email optional form-control" id="user_email" name="user[email]" placeholder="Email" type="email" value="">
+            </div>
+            <div class="col-sm-offset-2 col-sm-8"></div>
+          </div>
+          <div class="form-group string optional user_username">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input class="string optional form-control" id="user_username" name="user[username]" placeholder="Username" type="text">
+            </div>
+            <div class="col-sm-offset-2 col-sm-8"></div>
+          </div>
+          <div class="form-group password optional user_password">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input class="password optional form-control" id="user_password" name="user[password]" placeholder="Password" type="password">
+            </div>
+            <div class="col-sm-offset-2 col-sm-8"></div>
+          </div>
+          <div class="form-group password optional user_password_confirmation">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input class="password optional form-control" id="user_password_confirmation" name="user[password_confirmation]" placeholder="Password Confirmation" type="password">
+          </div>
+          <div class="col-sm-offset-2 col-sm-8"></div>
+          </div>
+
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-8">
+              <button type="submit" class="btn btn-default">Sign Up</button>
+            </div>
+          </div>
+
+          <div class="col-sm-offset-1 col-sm-10">
+            <small>By proceeding, I agree to FireRTC's <a href="https://phone.firertc.com/tos" target="_blank">Terms of Use.</a></small>
+          </div>
+        </form>
+      </div>
+
+      <div class="session-container" style="display:none;">
+        <img src="/assets/images/firertc-icon-96.png" alt="FireRTC Logo" />
+        <h2>Login to FireRTC</h2>
+        <form class="form-horizontal" id="new-session" role="form">
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input autofocus="autofocus" class="form-control" id="email" name="email" placeholder="Email" type="email" value="">
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input class="form-control" id="password" name="password" placeholder="Password" type="password">
+            </div>
+          </div>
+
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-8">
+              <input class="btn btn-default commit" type="submit" value="Sign In">
+            </div>
+          </div>
+
+          <div class="col-sm-offset-1 col-sm-10">
+            <small>By proceeding, I agree to FireRTC's <a href="https://phone.firertc.com/tos" target="_blank">Terms of Use.</a></small>
+          </div>
+        </form>
+        <div class="col-sm-12 col-xs-12">
+          <div class="request col-sm-6 col-xs-6 pull-left"><a href="https://phone.firertc.com/auth/sign_up" target="_blank">Sign Up</a></div>
+          <div class="request col-sm-6 col-xs-6 pull-right"><a href="https://phone.firertc.com/auth/password/new" target="_blank">Forgot Password?</a></div>
+        </div>
+      </div>
+
+    </div>
+
+  </body>
+</html>

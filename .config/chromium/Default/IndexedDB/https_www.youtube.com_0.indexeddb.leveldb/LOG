@@ -1,0 +1,7 @@
+2021/05/28-16:00:01.767 310a Reusing MANIFEST /home/brandon/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/28-16:00:01.767 310a Recovering log #3
+2021/05/28-16:00:01.780 310a Reusing old log /home/brandon/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/05/28-16:00:02.599 31e1 Level-0 table #5: started
+2021/05/28-16:00:02.607 31e1 Level-0 table #5: 912673 bytes OK
+2021/05/28-16:00:02.609 31e1 Delete type=0 #3
+2021/05/28-16:00:02.609 31e1 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
